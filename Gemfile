@@ -25,7 +25,9 @@ group :development do
   # Used to generate seed data
   # https://github.com/faker-ruby/faker
   gem "faker", "~> 2.18"
-  
+   
+   gem "rspec"
+   
   gem "pry"
 end
 
